@@ -125,7 +125,9 @@ This project utilizes the following technologies, libraries, and frameworks:
 - Jupyter Notebook  
 - ImageDataGenerator (from TensorFlow/Keras)
 
-
+## Models
+[CNN](https://drive.google.com/file/d/1JafVhnEeCzlkpmzg0-ctJPcZKdznNKd1/view?usp=drive_link)
+[EfficientNetB0](https://drive.google.com/file/d/1vzjuFfc5LYQ1pbGfpQ_FDcpyQwx3vpwy/view?usp=drive_link)
 
 ## Authors <!--- do not change this line -->
 
